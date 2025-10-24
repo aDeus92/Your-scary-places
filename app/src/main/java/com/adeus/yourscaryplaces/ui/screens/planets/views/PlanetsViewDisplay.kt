@@ -46,7 +46,7 @@ fun PlanetsViewDisplay(){
         PlanetCard("Ghost\"Yenion\"",5, "file:///android_asset/image/planet1.jpg", Modifier)
         PlanetCard("Destroyed Platform",5, "file:///android_asset/image/planet2.jpg", Modifier)
         PlanetCard("Gold Mine",5, "file:///android_asset/image/planet3.jpg", Modifier)
-    }
+         }
 }
 
 @Preview
