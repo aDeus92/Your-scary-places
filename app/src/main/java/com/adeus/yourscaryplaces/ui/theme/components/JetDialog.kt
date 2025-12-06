@@ -1,4 +1,4 @@
-package com.adeus.yourscaryplaces.test
+package com.adeus.yourscaryplaces.ui.theme.components
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
